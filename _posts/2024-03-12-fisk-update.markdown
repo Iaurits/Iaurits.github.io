@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A data-viz story about prostetution and their tender loins"
+title:  "A data-viz story about prostetution and types of arrest."
 date:   2024-03-27 09:47:40 +0100
 categories: homework
 ---
