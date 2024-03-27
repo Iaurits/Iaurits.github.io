@@ -9,7 +9,14 @@ Vi har lige modtaget information om at det mest slimede og stinkende rovdyr syd 
 ![Krabatet i omtale (ikke en penis)](/figures/fisk2.jpg)
 
 
-
+<iframe src="/figures/barplot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 
 Prisen er TBD så skriv endelige jeres bud til fiskemanden@yahoo.gr
