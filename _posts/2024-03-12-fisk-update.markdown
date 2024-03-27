@@ -8,8 +8,8 @@ categories: homework
 
 <iframe src="/figures/barplot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
+    width="150%"
+    height="700"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -21,7 +21,7 @@ As a part of this project we decided that it would be interesting not just to si
 <iframe src="/figures/map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="100%"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -31,8 +31,8 @@ Here we can see that areas such as Tenderloin, Central, Northern, Mission and Ri
 
 <iframe src="/figures/prostitution_tenderloin.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
+    width="125%"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
