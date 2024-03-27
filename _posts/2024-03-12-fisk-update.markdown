@@ -32,12 +32,6 @@ As a part of this project we decided that it would be interesting not just to si
     scrolling="no"
     seamless="seamless"
     frameborder="0">
-<figcaption
-  position: absolute;
-  bottom: 0;
-  height: 10%;
-  width: 100%;
-  border: 1px solid blue;> hej med dig <figcaption>
 </iframe>
 
 
