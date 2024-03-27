@@ -5,6 +5,9 @@ date:   2024-03-27 09:47:40 +0100
 categories: homework
 ---
 
+For this week's blog post we here at iaurits.github.io wanted to dive deep into the underworld of prostitution in San francisco, we have focused our attention to the data set from 2003 to 2018 (https://data.sfgov.org/browse?category=Public+Safety): Since this dataset is so comprehensive we need to have a general understanding of what the data set consists of. 
+Each entry in the data set is an incident report, meaning that a crime has been committed. To that crime more data adheres such as the time of the incident, the type of incident, in this report we have decided to focus on only the crimes considered prostitution, and furthermore looked at what kind of arrest it was, whether it is cited or booked. A cited arrest is an arrest where the arrested person has been given a fine or a warning, and a booked arrest is where the arrested person has been taken into custody by the police officer.
+
 
 <iframe src="/figures/barplot.html"
     sandbox="allow-same-origin allow-scripts"
@@ -14,6 +17,10 @@ categories: homework
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+
+In the plot above we notice that different times of day seem to have different rates of booked and cited f.x. from 1-4 in the morning it seems that there are more booked arrests than at other times, this might be because the more serious crimes are committed at night, however all that this tells us is that there might be something interesting going on, but to figure out what is going on we need to dig deeper.
+
 
 As a part of this project we decided that it would be interesting not just to simply analyze the crime rate or the area, but also the resolution of the crime. Some crimes tends to have softer punishment, such as fines or warnings, while others tend to have harsher punishments where the offender is actually prosecuted. In this case we thought it might be a good idea to see whether there is a difference between the number of booked arrests (offender is arrested and taking to a police station) and cited arrests (offender is let of with a fine or warning), depending on the neighborhood. Below can be seen a plot of prostitution in San Fransisco where each area has been colored depending on the ratio between booked arrests and all arrests.
 
