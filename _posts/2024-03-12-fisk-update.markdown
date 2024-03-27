@@ -1,22 +1,39 @@
 ---
 layout: post
-title:  "Nye fisk til salg"
-date:   2024-03-12 09:47:40 +0100
-categories: fisk!!
+title:  "A data-viz story about prostetution and their tender loins"
+date:   2024-03-27 09:47:40 +0100
+categories: homework
 ---
-Vi har lige modtaget information om at det mest slimede og stinkende rovdyr syd fra Bayern er blevet fanget og nu er "up for grabs". Han er ikke det mest charmerende bæst at kigge på, men han er en rigtig "freak in the sheets" hvis i forstår sådan en lile en. Udover at lave omfattende beregninger i excel er bæstet også yderst interesant at have i en tank, og hvis du skulle være så heldig at have et sådan eksemplar der hjemme kan du godt være klar på at høre komplimenter så som "det er da godt nok et krabat du har dig der" og måske få det lidt bedre over at aldrig have hørt det "in the sheets", if you know what i mean.
-
-![Krabatet i omtale (ikke en penis)](/figures/fisk2.jpg)
 
 
 <iframe src="/figures/barplot.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="100%"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
 
+As a part of this project we decided that it would be interesting not just to simply analyze the crime rate or the area, but also the resolution of the crime. Some crimes tends to have softer punishment, such as fines or warnings, while others tend to have harsher punishments where the offender is actually prosecuted. In this case we thought it might be a good idea to see whether there is a difference between the number of booked arrests (offender is arrested and taking to a police station) and cited arrests (offender is let of with a fine or warning), depending on the neighborhood. Below can be seen a plot of prostitution in San Fransisco where each area has been colored depending on the ratio between booked arrests and all arrests.
 
-Prisen er TBD så skriv endelige jeres bud til fiskemanden@yahoo.gr
+
+<iframe src="/figures/map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Here we can see that areas such as Tenderloin, Central, Northern, Mission and Richmond tend to have fewer booked arrests for prostitution compared to the total number of arrest resolutions for prostitution. Areas such as Taraval, Park and Southern tend to have a higher booked rate. However, it is important to know that this rate is calculated in relation to all other resolutions, so this plot does not indicate that there is more prostitution in the aformentioned areas, simply that more often offenders gets taken to the police station. In fact areas where the rate is low could be due to the fact the patrolling police are more busy or more needed on the road and therefore more often decide to let offenders off with fines as for example Tendorloin is a neighborhood notorious for criminal activity.
+
+<iframe src="/figures/prostitution_tenderloin.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
