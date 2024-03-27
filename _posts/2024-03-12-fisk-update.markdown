@@ -9,7 +9,7 @@ categories: homework
 <iframe src="/figures/barplot.html"
     sandbox="allow-same-origin allow-scripts"
     width="150%"
-    height="700"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -37,3 +37,5 @@ Here we can see that areas such as Tenderloin, Central, Northern, Mission and Ri
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+We notice from the actual prostitution related crime that most of the cited cases are loitering, most probably prostitutes who are then fined by the police instead of being taking into custody. We also notice that most more serious crimes such as pimping and human trafficking are almost always booked. All of this supports our hypothesis that police in this area tend to focus more on the serious crimes and are more leniant towards less serious crimes.
