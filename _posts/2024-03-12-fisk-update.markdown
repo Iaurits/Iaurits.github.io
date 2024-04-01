@@ -46,7 +46,6 @@ Here we can see that areas such as Tenderloin, Central, Northern, Mission and Ri
 </iframe>
 
 \
-\
 
 We notice from the prostitution related crime that most of the cited cases are loitering, it is most likely prostitutes who are fined by the police instead of being taking into custody. We also notice that the more serious crimes such as pimping and human trafficking are almost always booked. All of this supports our hypothesis that police in this area tend to focus more on the serious crimes and are more lenient towards less serious crimes. All of this might be due to the fact that Tenderloin has a high crime rate in general and police are understaffed in the area. An article from the San Francisco Standard made in 2023 explains how the police in the area has resorted to pulling back cops from retirement and discharged officers to do drug busts [2]. Another article from CBS News made in 2023 explains how the current major is requesting more funding to police departments, especially in Tenderloin in an attempt to combat drug issues in the area [3]. All of this might explain why police in Tenderloin generally tend to choose more lenient resolutions for crimes like loitering.
 
