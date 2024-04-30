@@ -45,5 +45,5 @@ From the heatmap we notice a few things. We notice that the entire body is mainl
 From looking at the heatmap, we can tell that our hunch is consistent between the two plots, since a whiplash is primarily stressfull the the back and neck. However it does not explain the minor bleading. This however can simply be explained by the fact that a car accident is in general traumatic and therfore the odds that a person involved in a car crash will bleed is just fairly large in general.
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=MqRDoRvb8yI">
+src="https://www.youtube.com/embed/MqRDoRvb8yI">
 </iframe>
