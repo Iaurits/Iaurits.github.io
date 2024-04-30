@@ -31,7 +31,7 @@ A simple analisys would look at the total amout of accidents, that the different
 </iframe>
 
 
-From the heatmap we notice a few things. We notice that the entire body is mainly injured when the car is either demolish or overturned. Further more  we notice that the neck seems to be the most injurde body part in almost every type of accident that occours, with back following as a close second. To further validate this hypothesis we can look at the complaints. 
+We notice that the neck seems to be the most injurde body part in almost every type of accident that occours, with back following as a close second. To further validate this hypothesis we can look at the complaints. 
 
 From looking at the heatmap, we can tell that our hunch is consistent between the two plots, since a whiplash is primarily stressfull the the back and neck. However it does not explain the minor bleading. This however can simply be explained by the fact that a car accident is in general traumatic and therfore the odds that a person involved in a car crash will bleed is just fairly large in general. The Youtube video below proves the point, as we see in the colission the dummys are thrown arround, glass and metal shards are flying everywhere, so it is no suprise that those two complaints seems to be the bigger ones.
 
