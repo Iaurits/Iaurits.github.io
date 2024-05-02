@@ -47,3 +47,5 @@ src="https://www.youtube.com/embed/PICLnx1rfuA">
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+_figure: A vizualazation of how frequents different acidents ocour and theire lethality/injury rate
