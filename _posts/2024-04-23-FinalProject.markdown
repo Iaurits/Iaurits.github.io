@@ -36,6 +36,14 @@ We notice that the neck seems to be the most injurde body part in almost every t
 From looking at the heatmap, we can tell that our hunch is consistent between the two plots, since a whiplash is primarily stressfull the the back and neck. However it does not explain the minor bleading. This however can simply be explained by the fact that a car accident is in general traumatic and therfore the odds that a person involved in a car crash will bleed is just fairly large in general. The Youtube video below proves the point, as we see in the colission the dummys are thrown arround, glass and metal shards are flying everywhere, so it is no suprise that those two complaints seems to be the bigger ones.
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/MqRDoRvb8yI?t=15">
+src="https://www.youtube.com/watch?v=PICLnx1rfuA">
 </iframe>
 
+<iframe src="/figures/car.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="125%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
