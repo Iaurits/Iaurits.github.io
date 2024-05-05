@@ -29,6 +29,7 @@ It might also be interesting to see whether there are any temporal patterns in t
     frameborder="0">
 </iframe>
 
+Notice that all car brands follow the same trend and that data after 2016 rises shapely. This is due to the way data was recorded was changed. We also notice a sharp decline after 2020 which is due to corona virus and the resulting lockdown.
 However, the percentage of crashes might not be sufficient when rating car safety. This is due to the fact that it might be impossible to ever design a car which never crashes since humans drives cars and human behavior is unpredictable. Therefore car manufactures might be more interested in reducing the bodily harm that occurs as a result of crashing, rather then reducing the actual risk of a crash. To account for this we have also created a plot which shows the occurrance of complaints per car brand. 
 
 
