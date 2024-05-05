@@ -19,6 +19,8 @@ A simple analisys would look at the total amout of accidents, that the different
     frameborder="0">
 </iframe>
 
+Tekst
+
 <iframe src="/figures/bokeh(1).html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -34,7 +36,7 @@ However, the percentage of crashes might not be sufficient when rating car safet
 
 <iframe src="/figures/Car_brand.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="150%"
     height="650"
     scrolling="no"
     seamless="seamless"
