@@ -36,7 +36,7 @@ However, the percentage of crashes might not be sufficient when rating car safet
 
 <iframe src="/figures/Car_brand.html"
     sandbox="allow-same-origin allow-scripts"
-    width="125%"
+    width="150%"
     height="650"
     scrolling="no"
     seamless="seamless"
