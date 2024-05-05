@@ -19,11 +19,22 @@ A simple analisys would look at the total amout of accidents, that the different
     frameborder="0">
 </iframe>
 
+<iframe src="/figures/bokeh(1).html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 However, the percentage of crashes might not be sufficient when rating car safety. This is due to the fact that it might be impossible to ever design a car which never crashes since humans drives cars and human behavior is unpredictable. Therefore car manufactures might be more interested in reducing the bodily harm that occurs as a result of crashing, rather then reducing the actual risk of a crash. To account for this we have also created a plot which shows the occurrance of complaints per car brand. 
+
+
 
 <iframe src="/figures/Car_brand.html"
     sandbox="allow-same-origin allow-scripts"
-    width="125%"
+    width="100%"
     height="650"
     scrolling="no"
     seamless="seamless"
