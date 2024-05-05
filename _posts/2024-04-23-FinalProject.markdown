@@ -23,7 +23,7 @@ Tekst
 
 <iframe src="/figures/bokeh(1).html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="125%"
     height="650"
     scrolling="no"
     seamless="seamless"
@@ -36,7 +36,7 @@ However, the percentage of crashes might not be sufficient when rating car safet
 
 <iframe src="/figures/Car_brand.html"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="125%"
     height="650"
     scrolling="no"
     seamless="seamless"
