@@ -19,7 +19,7 @@ A simple analisys would look at the total amout of accidents, that the different
     frameborder="0">
 </iframe>
 
-Tekst
+It might also be interesting to see whether there are any temporal patterns in the amount of crashes for these five brands. This is important in order for us to take into account any temporal trends are patterns which would go unnoticed in the first plot, but also to notice any differences in how data was collected at different points in time.
 
 <iframe src="/figures/bokeh(1).html"
     sandbox="allow-same-origin allow-scripts"
