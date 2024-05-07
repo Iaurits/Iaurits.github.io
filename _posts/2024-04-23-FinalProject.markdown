@@ -21,7 +21,7 @@ A simple analysis would look at the total number of accidents involving differen
 _Figure 1: Ratio of crashes and cars sold for the five most popular car brands_
 
 
-It can be seen from this plot that Ford has the lowest amount of crashes pr car sold. While Toyota has the highest. This could indicate that the Ford brand is safer to drive. 
+It can be seen from this plot that Ford has the lowest amount of crashes per car sold. While Toyota has the highest. This could indicate that the Ford brand is safer to drive. 
 It might also be interesting to see whether there are any temporal patterns in the amount of crashes for these five brands. This is important in order for us to take into account any temporal trends or patterns which would go unnoticed in the first plot, but also to notice any differences in how data was collected at different points in time.
 
 <iframe src="/figures/bokeh(1).html"
