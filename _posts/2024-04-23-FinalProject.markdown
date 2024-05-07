@@ -73,7 +73,7 @@ The crash test video helps to highlight that another important factor in the cra
     frameborder="0">
 </iframe>
 
-_Figure 4: A vizualazation of how frequents different acidents ocour and theire lethality/injury rate_
+_Figure 4: A vizualazation of how frequents different acidents ocour and their lethality/injury rate_
 
 From this visualization it can be seen that the center front end, center back end, right front bumper and left front bumper all have the highest probability of killing/injuring the car occupants as points of impact. This is also evident from the crash test video as when the ford is hit from the front, the occupants are flung significantly more around then when hit from the side.
 
