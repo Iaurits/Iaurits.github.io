@@ -18,7 +18,7 @@ A simple analysis would look at the total number of accidents involving differen
     frameborder="0">
 </iframe>
 
-_figure 1: Ratio of crashes and cars sold for the five most popular car brands_
+_Figure 1: Ratio of crashes and cars sold for the five most popular car brands_
 
 
 It can be seen from this plot that Ford has the lowest amount of crashes pr car sold. While Toyota has the highest. This could indicate that the Ford brand is safer to drive. 
@@ -33,7 +33,7 @@ It might also be interesting to see whether there are any temporal patterns in t
     frameborder="0">
 </iframe>
 
-_figure 2: Here is can be seen how the number of crashes for each car brand has evoled thorugh the past decade_
+_Figure 2: Here is can be seen how the number of crashes for each car brand has evoled thorugh the past decade_
 
 
 Notice that all car brands follow the same trend and that data after 2016 rises shapely. This is due to the way data was recorded was changed. We also notice a sharp decline after 2020 which might be due to corona virus and the resulting lockdown.
@@ -50,7 +50,7 @@ However, the percentage of crashes might not be sufficient when rating car safet
     frameborder="0">
 </iframe>
 
-_figure 3: This plot shows a heatmap where each column corropsonds to a car brand, and the color of each square represents the procentage of this injury per car brand._
+_Figure 3: This plot shows a heatmap where each column corropsonds to a car brand, and the color of each square represents the procentage of this injury per car brand._
 
 
 We notice that the neck and head are the most common places to be injured, no matter which car brand you drive. 
@@ -78,7 +78,7 @@ The crash test video helps to highlight that another important factor in the cra
     frameborder="0">
 </iframe>
 
-_figure 4: A vizualazation of how frequents different acidents ocour and theire lethality/injury rate_
+_Figure 4: A vizualazation of how frequents different acidents ocour and theire lethality/injury rate_
 
 From this visualization it can be seen that the center front end, center back end, right front bumper and left front bumper all have the highest probability of killing/injuring the car occupants as points of impact. This is also evident from the crash test video as when the ford is hit from the front, the occupants are flung significantly more around then when hit from the side.
 
