@@ -4,7 +4,7 @@ title:  "Crash Course in car safety"
 date:   2024-05-07 09:47:40 +0100
 categories: homework
 ---
-_We have created an explainer jupitor notebook for the more intrested reader, find the link here [0]
+_We have created an explainer jupitor notebook for the more intrested reader, find the link here: [0] (dowload and opens as html)
 
 It is no secret that driving a car can, at times, be dangerous. What is unclear is which kind of car brand is safer. With advertising and a plethora of websites claiming to offer empirical safety ratings for every car, it can be hard to navigate the world of car safety. Therefore, we intend to figure out which kind of car is the safest to drive. We will limit our search to New York City since there is a lot of great open data accessible in NYC. We will also only consider the top five most frequently bought cars in the USA: Ford, Toyota, Chevrolet, Honda, and Nissan [1]. We choose to restrict ourselves to these brands as car brands that occur less frequently will be more subject to outliers in the dataset compared to the most frequent car types, where we expect the wisdom of the crowds to be in effect. Additionally, we have too much data to take everything into account.
 
