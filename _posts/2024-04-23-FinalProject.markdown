@@ -84,4 +84,4 @@ From this visualization it can be seen that the center front end, center back en
 
 While we had hoped to find that one car brand was significantly safer that the others, this is not the case. Only in the introductory plot did we see much difference in car brands. If we sould give a recomendation it will be based on that, and therefore a Ford should be safest. However it is a very small difference from the other brand, and other factors when buying a car might be more important. We have compared our safety results with the web site iSeeCars.com, which is a web site that helps people find good deals on cars and also has a lot of reaserach articles. On their site the have rated some SUV from each of the five brand that we also look at. When averageing the score for each brand, the brands are sorted in the same way as in the first plot we showed. That is Ford has the safest cars then Chevrolet, Honda, Nissan and lastly Toyota. 
 
-[1] : https://www.statista.com/statistics/264362/leading-car-brands-in-the-us-based-on-vehicle-sales/
+[1]: https://www.statista.com/statistics/264362/leading-car-brands-in-the-us-based-on-vehicle-sales/
