@@ -53,12 +53,7 @@ However, the percentage of crashes might not be sufficient when rating car safet
 _Figure 3: This plot shows a heatmap where each column corropsonds to a car brand, and the color of each square represents the procentage of this injury per car brand._
 
 
-We notice that the neck and head are the most common places to be injured, no matter which car brand you drive. 
-
-To further validate this hypothesis we can look at the complaints. 
 On the left heatmap, we can tell that whiplash and minor bleeding are the most common injuries. The high number in whiplash is also evident in the right heatmap where we can see that head and neck are the most common places to be injured. However it does not explain the minor bleading. This however can simply be explained by the fact that a car accident is in general traumatic and therefore the odds that a person involved in a car crash will bleed is just fairly large in general. The Youtube video below proves the point, as we see in the colission the dummys are thrown arround, glass and metal shards are flying everywhere, so it is no suprise that those two complaints seems to be the bigger ones. We also notice that each car brand have mostly the same distributions of injuries, and we can therefore from this plot not conclude that one brand is better than the other. However we will now look closer at Ford since this was the brand with the lowest ratio from figure 1.
-
-On the left heatmap, we can tell that our hunch is consistent between the two plots, since a whiplash is primarily stressfull for the back and neck. 
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/PICLnx1rfuA">
