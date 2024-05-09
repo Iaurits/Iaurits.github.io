@@ -4,7 +4,7 @@ title:  "Crash Course in car safety"
 date:   2024-05-07 09:47:40 +0100
 categories: homework
 ---
-_We have created an explainer jupitor notebook for the more intrested reader, find the link here: [0] (dowload and opens as html)
+_We have created an explainer jupitor notebook for the more intrested reader, find the link here: [-1] (dowload and opens as html) or [0] (as ipynb)
 
 It is no secret that driving a car can, at times, be dangerous. What is unclear is which kind of car brand is safer. With advertising and a plethora of websites claiming to offer empirical safety ratings for every car, it can be hard to navigate the world of car safety. Therefore, we intend to figure out which kind of car is the safest to drive. We will limit our search to New York City since there is a lot of great open data accessible in NYC. We will also only consider the top five most frequently bought cars in the USA: Ford, Toyota, Chevrolet, Honda, and Nissan [1]. We choose to restrict ourselves to these brands as car brands that occur less frequently will be more subject to outliers in the dataset compared to the most frequent car types, where we expect the wisdom of the crowds to be in effect. Additionally, we have too much data to take everything into account.
 
@@ -80,6 +80,7 @@ From this visualization it can be seen that the center front end, center back en
 
 While we had hoped to find that one car brand was significantly safer that the others, this is not the case. Only in the introductory plot did we see much difference in car brands. If we sould give a recomendation it will be based on that, and therefore a Ford should be safest. However it is a very small difference from the other brand, and other factors when buying a car might be more important. We have compared our safety results with the web site iSeeCars.com, which is a web site that helps people find good deals on cars and also has a lot of reaserach articles. On their site the have rated some SUV from each of the five brand that we also look at. When averageing the score for each brand, the brands are sorted in the same way as in the first plot we showed. That is Ford has the safest cars then Chevrolet, Honda, Nissan and lastly Toyota. 
 
-[0]: https://github.com/Iaurits/Iaurits.github.io/blob/main/FinalProjectJupiterNotebook.html
+[-1]: https://github.com/Iaurits/Iaurits.github.io/blob/main/FinalProjectJupiterNotebook.html
+[0]: https://github.com/Iaurits/Iaurits.github.io/blob/main/FinalProjectJupiterNotebook.ipynb
 [1]: https://www.statista.com/statistics/264362/leading-car-brands-in-the-us-based-on-vehicle-sales/
 [2]: https://nypost.com/2020/12/10/covid-19-restrictions-fueled-nycs-drop-in-car-crashes/
